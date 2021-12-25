@@ -200,7 +200,7 @@ homekit_accessory_t *accessories[] = {
 
 homekit_server_config_t config = {
     .accessories = accessories,
-    .password = "111-11-111"
+    .password = "206-11-820"
 };
 
 int32_t ssi_handler(int32_t iIndex, char *pcInsert, int32_t iInsertLen)
